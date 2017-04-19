@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="topic">Looking For ?</string>
+    <string name="search">search</string>
+    <string name="emptyText">No Books found for the requested. Try searching books with short titles or one word titles</string>
+    <string name="no_connection">No Connectivity, Please Check Your Internet</string>
+</resources>
